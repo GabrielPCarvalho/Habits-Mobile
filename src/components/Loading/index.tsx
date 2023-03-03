@@ -4,7 +4,7 @@ import { Wrapper } from "./style";
 function Loading() {
   return (
     <Wrapper>
-      <ActivityIndicator color="#7C3AED" />
+      <ActivityIndicator color="#5EEAD4" size={30}/>
     </Wrapper>
   )
 }
